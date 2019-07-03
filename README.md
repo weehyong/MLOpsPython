@@ -3,8 +3,7 @@
 
 [![Build Status](https://dev.azure.com/customai/DevopsForAI-AML/_apis/build/status/Microsoft.DevOpsForAI?branchName=master)](https://dev.azure.com/customai/DevopsForAI-AML/_build/latest?definitionId=1&branchName=master)
 
-### Author: Praneet Solanki | Richin Jain
-
+### Author: Richin Jain | Praneet Solanki 
 MLOps will help you to understand how to build the Continuous Integration and Continuous Delivery pipeline for a ML/AI project. We will be using the Azure DevOps Project for build and release/deployment pipelines along with Azure ML services for model retraining pipeline, model management and operationalization. 
 
 ![ML lifecycle](/docs/images/ml-lifecycle.png)
